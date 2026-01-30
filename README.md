@@ -1,6 +1,6 @@
 # 📘 Dictionary App
 
-A modern, responsive **Dictionary Web App** built with **HTML, CSS and JavaScript**. 
+A modern, responsive **Dictionary Web App** built with **HTML, CSS and Vanilla JavaScript**. 
 
 ---
 
