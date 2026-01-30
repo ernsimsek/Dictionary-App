@@ -15,15 +15,7 @@ It allows users to instantly search word meanings with a clean UI, dark/light th
 - ⚡ Fast & lightweight (Vanilla JS)
 
 ---
-
-## 🖼️ Screenshots
-
-### Light Mode
-![Light Mode](assets/screenshots/light-mode.png)
-
-### Dark Mode
-![Dark Mode](assets/screenshots/dark-mode.png)
-
+<img width="1919" height="1079" alt="screeshot" src="https://github.com/user-attachments/assets/9ea2ef84-bef1-4ba7-bfb4-1ae2f6768289" />
 ---
 
 [🚀 Live Demo](https://ernsimsek.github.io/Dictionary-App/)
