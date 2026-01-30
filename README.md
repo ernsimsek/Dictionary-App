@@ -26,9 +26,7 @@ It allows users to instantly search word meanings with a clean UI, dark/light th
 
 ---
 
-## 🚀 Live Demo
-
-`https://ernsimsek.github.io/Dictionary-App/`
+[🚀 Live Demo](https://ernsimsek.github.io/Dictionary-App/)
 
 ---
 
