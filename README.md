@@ -1,7 +1,6 @@
 # 📘 Dictionary App
 
-A modern, responsive **Dictionary Web App** built with **HTML, CSS and Vanilla JavaScript**.  
-It allows users to instantly search word meanings with a clean UI, dark/light theme support and pronunciation feature.
+A modern, responsive **Dictionary Web App** built with **HTML, CSS and JavaScript**. 
 
 ---
 
