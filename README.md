@@ -7,7 +7,7 @@ A modern, responsive **Dictionary Web App** built with **HTML, CSS and Vanilla J
 ## ✨ Features
 
 - 🔍 Instant word search
-- 🌙 Dark / ☀️ Light theme 
+- 🌙 Dark / ☀️ Light theme
 - 🔊 Text-to-Speech pronunciation
 - 🎨 Modern glassmorphism UI
 - 📱 Fully responsive design
