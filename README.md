@@ -15,7 +15,7 @@ A modern, responsive **Dictionary Web App** built with **HTML, CSS and Vanilla J
 
 ---
 
-<img width="1919" height="1079" alt="Ekran görüntüsü 2026-01-30 201844" src="https://github.com/user-attachments/assets/de0996cb-b3b8-45bf-92d6-1e5071ebf599" />
+<img width="1919" height="1079" src="https://github.com/user-attachments/assets/e4066b9b-fb96-4390-b46d-418f7f61153c" />
 
 ---
 
