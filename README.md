@@ -19,26 +19,3 @@ It allows users to instantly search word meanings with a clean UI, dark/light th
 
 [🚀 Live Demo](https://ernsimsek.github.io/Dictionary-App/)
 
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3 (Glassmorphism, Animations, Responsive Design)
-- JavaScript (ES6)
-- Datamuse Dictionary API
-- Web Speech API
-
----
-
-## 📂 Project Structure
-
-```txt
-dictionary-app/
-│
-├─ index.html
-├─ style.css
-├─ script.js
-├─ assets/
-│   └─ screenshots/
-└─ README.md
