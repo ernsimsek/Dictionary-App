@@ -15,7 +15,10 @@ It allows users to instantly search word meanings with a clean UI, dark/light th
 - ⚡ Fast & lightweight (Vanilla JS)
 
 ---
-<img width="1919" height="1079" alt="screeshot" src="https://github.com/user-attachments/assets/9ea2ef84-bef1-4ba7-bfb4-1ae2f6768289" />
+
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-01-30 201844" src="https://github.com/user-attachments/assets/de0996cb-b3b8-45bf-92d6-1e5071ebf599" />
+
+---
 
 [🚀 Live Demo](https://ernsimsek.github.io/Dictionary-App/)
 
