@@ -28,7 +28,6 @@ It allows users to instantly search word meanings with a clean UI, dark/light th
 
 ## 🚀 Live Demo
 
-👉 *(Optional)*  
 If deployed with GitHub Pages or Vercel:  
 `https://your-username.github.io/dictionary-app/`
 
