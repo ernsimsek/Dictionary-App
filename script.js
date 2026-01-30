@@ -2,7 +2,6 @@ const result = document.getElementById("result");
 const btn = document.getElementById("search-btn");
 const themeToggle = document.getElementById("theme-toggle");
 
-// --- Theme Logic ---
 const currentTheme = localStorage.getItem("theme") || "dark";
 document.documentElement.setAttribute("data-theme", currentTheme);
 updateThemeIcon(currentTheme);
@@ -25,14 +24,12 @@ function updateThemeIcon(theme) {
     }
 }
 
-// --- Dictionary Logic ---
 const inpWordElement = document.getElementById("inp-word");
 
 function performSearch() {
     let inpWord = inpWordElement.value.trim();
     if (!inpWord) return;
 
-    // Loading state
     result.innerHTML = `<div class="loading">Searching for "${inpWord}"...</div>`;
 
     fetch(`https://api.datamuse.com/words?sp=${inpWord}&md=d&max=1`)
